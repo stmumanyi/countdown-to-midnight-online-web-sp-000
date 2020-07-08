@@ -1,7 +1,7 @@
 #write your code here
 
-def countdown(tim)
-  tim = 60
+def countdown(time)
+  time = 60
   while x > 0 
   puts "#{tim} SECOND(S)!"
   tim -= 1 
