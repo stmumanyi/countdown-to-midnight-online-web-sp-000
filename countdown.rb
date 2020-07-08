@@ -10,5 +10,6 @@ end
 
 def countdown_with_sleep
   while time > 0 
-  puts "#{time} SECOND(S)!"
+  puts "#{time} SECOND(S)!
+  "
 
